@@ -1,4 +1,4 @@
-
+sudo dnf update -y
 sudo dnf install nginx -y
 sudo dnf install mariadb105-server -y
 sudo dnf install php -y

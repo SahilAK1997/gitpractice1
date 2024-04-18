@@ -1,0 +1,21 @@
+sudo yum install git -y
+git init
+git config --global user.name "Sahil"
+git config --global user.email "syadgire46@gmail.com"
+git status
+git diff
+git difftool
+
+git add .
+git add filename
+
+git diff --staged
+git difftool --staged
+
+git commit -m "msg"
+
+git remote add origin master repolink
+
+git push origin master
+
+

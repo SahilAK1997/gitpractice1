@@ -1,0 +1,4 @@
+hidden.html 
+
+*.jpg
+!file.jpg
